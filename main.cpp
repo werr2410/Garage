@@ -1,10 +1,10 @@
-#include "GarageItem/GarageClassItem/Car.cpp"
+#include "GarageItem/GarageClassItem/Lorry.cpp"
 #include <iostream>
 
 using namespace std;
 
 int main() {
-    Car obj;
+    Lorry obj;
 
     cout << obj.show() << endl;
 
