@@ -21,6 +21,6 @@ public:
     float getMaxSpeed() const;
     string getMark() const;
 
-    // virtual string show() const = 0;
-    // virtual string type() const = 0;
+    virtual string show() const = 0;
+    virtual string type() const = 0;
 };
