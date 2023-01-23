@@ -1,9 +1,6 @@
 #include "Bicycle.h"
 #include <iostream>
 
-
-
-
 Bicycle::Bicycle() 
     : Vehicle() {
     setTypeModel("NO DATA");
